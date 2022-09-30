@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khoshrang
-- 👀 I’m interested in java and android
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data and android projects
+- 👀 I’m interested in android
+- 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me linkedin
 
 <!---
